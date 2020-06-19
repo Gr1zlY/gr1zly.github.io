@@ -4,3 +4,5 @@
 *.swo
 #end vim temp
 
+node_modules
+src
